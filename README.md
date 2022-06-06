@@ -6,4 +6,4 @@ Analisis Eksplorasi Data dengan deret waktu | Tren, Musiman | Statistik Deskript
 
 data = harga bahan pokok Kalimantan Timur (01-01-2020 sampai 24-03-2022) | BPS
 
-kesimpulan = MAE LSTM < MAE ETS 
+kesimpulan = MAPE ETS < MAPE LSTM 
