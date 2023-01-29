@@ -1,11 +1,11 @@
-# PrediksiBahanPokok-LSTM-ETS
+# Forecast price of basic commodities using - LSTM Algorithm and ExponenTial Smoothing
 
-Model Deep Learning (LSTM neural network) with scale minmax data, without scale minmax data
+* Deep Learning Model (LSTM neural network) with scale minmax data, without scale minmax data
+* Error Trend Seasonal Model
+* Exploratory Data Analysis with in time series analysis (Trend, Seasonal, Statistics Descriptives)
 
-Analisis Eksplorasi Data dengan deret waktu | Tren, Musiman | Statistik Deskriptif | Modeling
+Dataset = Basic commodities of East Kalimantan
+Times = 01-01-2020 until 24-03-2022 from Web Dinas Perdagangan Indonesia
 
-data = harga bahan pokok Kalimantan Timur (01-01-2020 sampai 24-03-2022) | BPS
-
-kesimpulan(1) = MAPE ETS < MAPE LSTM 
-
-kesimpulan(2) = MAPE ETS Multiplicative < MAPE ETS Additive 
+* Summary(1) = MAPE ETS < MAPE LSTM 
+* Summary(2) = MAPE ETS Multiplicative < MAPE ETS Additive
